@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bg {
+  background-color: #1e293b;
+  text-align: center;
+  font-family: 'Bree Serif';
+  padding: 20px;
+}
+.heading {
+  color: #f0bb03;
+}
+.paragraph {
+  color: #ffffff;
+}
+.button {
+  color: #1e293b;
+  font-size: 8px;
+  background-color: #ffffff;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 5px;
+}
